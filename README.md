@@ -27,15 +27,15 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ahmedhub2005&show_icons=true&theme=radical" alt="Ahmed's GitHub stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmedhub2005&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ahmedhamdy-DS&show_icons=true&theme=radical" alt="Ahmed's GitHub stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmedhamdy-DS&theme=radical" alt="GitHub Streak" />
 </p>
 
 ---
 
 ## 🏆 GitHub Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ahmedhub2005&theme=radical&no-frame=true&row=1&column=6"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=ahmedhamdy-DS&theme=radical&no-frame=true&row=1&column=6"/>
 </p>
 
 ---
@@ -57,5 +57,5 @@
 
 ## 🔥 Most Used Languages
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedhub2005&layout=compact&theme=radical"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedhamdy-DS&layout=compact&theme=radical"/>
 </p>
