@@ -1,5 +1,12 @@
 # 💫 About Me:
-Data Scientist and Machine Learning Engineer with hands-on experience in predictive modeling, feature engineering, and end-to-end ML system development. I specialize in building scalable, data-driven solutions that optimize performance and deliver measurable business value.<br><br>I’m currently working on: developing and deploying machine learning models and interactive data applications to address real-world business challenges.<br><br>I’m looking to collaborate on: projects focused on predictive analytics, automation, or AI-based optimization.<br><br>I’m looking for help with: enhancing model scalability and integrating MLOps best practices for continuous deployment and monitoring.<br><br>I’m currently learning: advanced deep learning architectures, hyperparameter optimization, and cloud-based ML deployment using AWS and GCP.<br><br>Ask me about: data preprocessing, model evaluation, feature engineering, or building Streamlit applications for ML projects.<br><br>Fun fact: I enjoy improving model pipelines and experimenting with different algorithms to push performance boundaries.
+Data Scientist and ML Developer with hands-on experience in predictive modeling, feature engineering, and developing machine learning applications. I specialize in building scalable, data-driven solutions that optimize performance and deliver measurable business value.<br><br>
+I’m currently working on: developing machine learning models and building interactive data applications to solve real-world business problems.<br><br>
+I’m looking to collaborate on: projects focused on predictive analytics, automation, or AI-based optimization.<br><br>
+I’m looking for help with: enhancing model efficiency, performance optimization, and applying best practices for ML development.<br><br>
+I’m currently learning: advanced deep learning architectures, hyperparameter optimization, and cloud-based ML deployment using AWS and GCP.<br><br>
+Ask me about: data preprocessing, model evaluation, feature engineering, or building Streamlit applications for ML projects.<br><br>
+Fun fact: I enjoy improving model pipelines and experimenting with different algorithms to push performance boundaries.
+
 
 
 ## 🌐 Socials:
