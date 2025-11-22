@@ -1,5 +1,5 @@
 # 💫 About Me:
-Data Scientist and ML Developer with hands-on experience in predictive modeling, feature engineering, and developing machine learning applications. I specialize in building scalable, data-driven solutions that optimize performance and deliver measurable business value.<br><br>
+Data Scientist and ML Engineer with hands-on experience in predictive modeling, feature engineering, and developing machine learning applications. I specialize in building scalable, data-driven solutions that optimize performance and deliver measurable business value.<br><br>
 I’m currently working on: developing machine learning models and building interactive data applications to solve real-world business problems.<br><br>
 I’m looking to collaborate on: projects focused on predictive analytics, automation, or AI-based optimization.<br><br>
 I’m looking for help with: enhancing model efficiency, performance optimization, and applying best practices for ML development.<br><br>
