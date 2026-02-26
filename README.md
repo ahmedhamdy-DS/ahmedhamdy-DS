@@ -1,11 +1,5 @@
-# 💫 About Me:
-Data Scientist and ML Engineer with hands-on experience in predictive modeling, feature engineering, and developing machine learning applications. I specialize in building scalable, data-driven solutions that optimize performance and deliver measurable business value.<br><br>
-I’m currently working on: developing machine learning models and building interactive data applications to solve real-world business problems.<br><br>
-I’m looking to collaborate on: projects focused on predictive analytics, automation, or AI-based optimization.<br><br>
-I’m looking for help with: enhancing model efficiency, performance optimization, and applying best practices for ML development.<br><br>
-I’m currently learning: advanced deep learning architectures, hyperparameter optimization, and cloud-based ML deployment using AWS and GCP.<br><br>
-Ask me about: data preprocessing, model evaluation, feature engineering, or building Streamlit applications for ML projects.<br><br>
-Fun fact: I enjoy improving model pipelines and experimenting with different algorithms to push performance boundaries.
+💫 About Me:
+I am a Data Scientist & ML Engineer specializing in predictive modeling, feature engineering, and building scalable data applications. I focus on turning complex data into measurable business value. Currently, I’m building interactive Streamlit apps, diving into advanced deep learning and cloud deployment (AWS/GCP), and constantly experimenting with algorithms to push performance boundaries. I'm always open to collaborating on AI optimization and automation projects!
 
 
 
