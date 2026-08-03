@@ -21,7 +21,7 @@ I'm a **Data Scientist & ML Engineer** specializing in predictive modeling, feat
 ### Links
 
 <p align="center">
-  <a href="https://lnkd.in/gPdv5ued"><img src="https://img.shields.io/badge/Portfolio-00599C?style=for-the-badge" /></a>
+  <a href="https://lnkd.in/gPdv5ued"><img src="[https://img.shields.io/badge/Portfolio-00599C?style=for-the-badge](https://my-web-3ciq.vercel.app/)" /></a>
   <a href="mailto:ahmedhamdyabdelaziz094@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
