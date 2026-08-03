@@ -78,7 +78,7 @@ I'm a **Data Scientist & ML Engineer** specializing in predictive modeling, feat
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ahmedhamdy-DS&theme=react-dark&hide_border=false" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ahmedhamdy-DS&theme=react-dark&hide_border=false&custom_title=Ahmed%20Hamdy's%20Contribution%20Graph" />
 </p>
 
 <p align="center">
@@ -90,5 +90,7 @@ I'm a **Data Scientist & ML Engineer** specializing in predictive modeling, feat
 <p align="center">
   <img src="https://visitcount.itsvg.in/api?id=ahmedhamdy-DS&icon=0&color=0" />
 </p>
+
+<p align="center"><i>Proudly crafted — always shipping something new.</i></p>
 
 <p align="center"><i>Proudly crafted — always shipping something new.</i></p>
