@@ -81,10 +81,6 @@ I'm a **Data Scientist & ML Engineer** specializing in predictive modeling, feat
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ahmedhamdy-DS&theme=react-dark&hide_border=false&custom_title=Ahmed%20Hamdy's%20Contribution%20Graph" />
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ahmedhamdy-DS&theme=darkhub&no-frame=false&no-bg=true&margin-w=4" />
-</p>
-
 ---
 
 <p align="center">
