@@ -21,7 +21,7 @@ I'm a **Data Scientist & ML Engineer** specializing in predictive modeling, feat
 ### Links
 
 <p align="center">
-  <a href="https://lnkd.in/gPdv5ued"><img src="[https://img.shields.io/badge/Portfolio-00599C?style=for-the-badge](https://my-web-3ciq.vercel.app/)" /></a>
+  <a href="https://my-web-3ciq.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-00599C?style=for-the-badge" /></a>
   <a href="mailto:ahmedhamdyabdelaziz094@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
@@ -30,7 +30,7 @@ I'm a **Data Scientist & ML Engineer** specializing in predictive modeling, feat
 ### Connect With Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/ahmed-hamdy-4569a8360/" target="_blank">
+  <a href="https://www.linkedin.com/in/ahmed-hamdy-4569a8360/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
@@ -81,6 +81,10 @@ I'm a **Data Scientist & ML Engineer** specializing in predictive modeling, feat
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ahmedhamdy-DS&theme=react-dark&hide_border=false&custom_title=Ahmed%20Hamdy's%20Contribution%20Graph" />
 </p>
 
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ahmedhamdy-DS&theme=darkhub&no-frame=false&no-bg=true&margin-w=4" />
+</p>
+
 ---
 
 <p align="center">
@@ -88,5 +92,4 @@ I'm a **Data Scientist & ML Engineer** specializing in predictive modeling, feat
 </p>
 
 <p align="center"><i>Proudly crafted — always shipping something new.</i></p>
-
 
